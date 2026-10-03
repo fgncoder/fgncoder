@@ -37,12 +37,16 @@ Alongside this work, I'm developing practical Python and Django skills through a
 | [**Parmis Dental**](https://parmisdental.com/) | Website design, ongoing support and SEO alongside the content team. **Ongoing collaboration.** |
 | [**Noora24**](https://noora24.com/) | Website design, support and SEO with the project and content teams. Previous engagement. |
 | [**DRFM**](https://drfm.net/) | Design of an educational website for learning content and courses. |
+| [**Damoon Oil**](https://damoonoil.com/) | Website design, support and SEO for an industrial oil and lubricants business. |
+| [**Dr. Saber Poorya**](https://drsaberpoorya.com/) | Website design, support and SEO for a dental practice in Mashhad. |
 | [**Javaher**](https://javaher.site/) | SEO consulting for the project team. Advisory role. |
 
 <p align="center">
-  <a href="https://fgncoder.github.io/#work"><img src="https://fgncoder.github.io/assets/parmis.webp" width="230" alt="Parmis Dental website"></a>
+  <a href="https://fgncoder.github.io/#work"><img src="https://fgncoder.github.io/assets/parmis-current.jpg" width="230" alt="Parmis Dental website"></a>
   <a href="https://fgncoder.github.io/#work"><img src="https://fgncoder.github.io/assets/noora.webp" width="230" alt="Noora24 website"></a>
   <a href="https://fgncoder.github.io/#work"><img src="https://fgncoder.github.io/assets/drfm.webp" width="230" alt="DRFM educational website"></a>
+  <a href="https://damoonoil.com/"><img src="https://fgncoder.github.io/assets/damoon-current.jpg" width="230" alt="Damoon Oil website"></a>
+  <a href="https://drsaberpoorya.com/"><img src="https://fgncoder.github.io/assets/drsaberpoorya-current.jpg" width="230" alt="Dr. Saber Poorya website"></a>
 </p>
 
 [**View project details and historical search performance charts →**](https://fgncoder.github.io/#results)
@@ -81,7 +85,7 @@ Available for **remote and freelance projects**. English: intermediate.
 
 من **مهران گنجی** هستم؛ متخصص سئو و طراح سایت وردپرسی در مشهد، با ۸ سال تجربه کاری و ۵ سال فعالیت هم‌زمان در سئو و طراحی سایت. به‌صورت دورکاری و پروژه‌ای با کسب‌وکارها و تیم‌های تولید محتوا همکاری می‌کنم.
 
-نمونه‌کارهایم شامل طراحی، پشتیبانی و سئوی پارمیس و نورا، طراحی سایت آموزشی DRFM و مشاوره سئوی جواهر است. در کنار این فعالیت‌ها، تجربه عملی پایتون و جنگو را با یک پروژه مدیریت کلینیک توسعه می‌دهم و گواهینامه دوره پایتون پیشرفته مکتب‌خونه را دارم.
+نمونه‌کارهایم شامل طراحی، پشتیبانی و سئوی پارمیس، نورا، روغن صنعت دامون و دکتر صابر پوریا رضائی، طراحی سایت آموزشی DRFM و مشاوره سئوی جواهر است. در کنار این فعالیت‌ها، تجربه عملی پایتون و جنگو را با یک پروژه مدیریت کلینیک توسعه می‌دهم و گواهینامه دوره پایتون پیشرفته مکتب‌خونه را دارم.
 
 [**مشاهده سایت و رزومه فارسی**](https://fgncoder.github.io/?lang=fa)
 
